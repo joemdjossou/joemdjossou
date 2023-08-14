@@ -13,6 +13,16 @@
   - I'm constantly learning from others and using such new knowledge to work better on myself and projects.
   - I have a passion for sharing acquired knowledge through basic concepts in order to make learning easier for others.
   - I love playing my acoustic guitar when I face bug to look at it from a different angle😄.
+
+<h3> Connect with me 🤝: </h3>
+
+<a href="https://discordapp.com/users/joemdjossou#2293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#2293" height="30" width="40" /></a>
+<a href="https://twitter.com/joemdjossou" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joemdjossou" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/joemdjossou/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yaovi Emmanuel Josué DJOSSOU" height="30" width="40" /></a>
+<a href="https://instagram.com/joemdjossou" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joemdjossou" height="30" width="40" /></a>
+
+
+
 <p> 
 <img align = "center" src="https://github-readme-streak-stats.herokuapp.com?user=joemdjossou&theme=blueberry_duo">
 </p>
