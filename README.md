@@ -46,7 +46,7 @@
 
 <h3> 📊GitHub Stats : </h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=joemdjossou&theme=dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=true" alt="joemdjossou" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=joemdjossou&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" /></p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joemdjossou&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 <p> 
