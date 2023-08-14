@@ -22,6 +22,8 @@
 <a href="https://twitter.com/joemdjossou" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joemdjossou" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/joemdjossou/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yaovi Emmanuel Josué DJOSSOU" height="30" width="40" /></a>
 <a href="https://instagram.com/joemdjossou" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joemdjossou" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@joemdjossou" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="joemdjossou" height="30" width="40" /></a>
+
 
 ---
 <h3> 👾 Tech and Stack 👨‍💻: </h3>
@@ -51,4 +53,14 @@
 <img align = "center" src="https://github-readme-streak-stats.herokuapp.com?user=joemdjossou&theme=blueberry_duo">
 </p>
 
+---
 
+<h3>🏆GitHub Trophies</h3>
+
+![](https://github-profile-trophy.vercel.app/?username=joemdjossou&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+---
+
+<h3> 💰You can also help me by following me or by donating </h3>
+
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/joemdjossou/home)
