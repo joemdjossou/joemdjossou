@@ -10,9 +10,11 @@
 - 📫 How to reach me: [Email me](mailto:joemdjossou@gmail.com).
 - 😄 Pronouns: joemdjossou.
 - 👾 Fun fact:
+  - Dart makes my heart flutter 💙
   - I'm constantly learning from others and using such new knowledge to work better on myself and projects.
   - I have a passion for sharing acquired knowledge through basic concepts in order to make learning easier for others.
   - I love playing my acoustic guitar when I face bug to look at it from a different angle😄.
+  - "Only half of programming is coding. The other 90% is debugging" 💡
 
 ---
 
