@@ -48,18 +48,18 @@
 
 <h3> 📊GitHub Stats : </h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=joemdjossou&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" /></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joemdjossou&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<a href="http://www.github.com/joemdjossou"><img src="https://github-readme-stats.vercel.app/api?username=joemdjossou&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="joemdjossou's GitHub stats" /></a>
 
-<p> 
-<img align = "center" src="https://github-readme-streak-stats.herokuapp.com?user=joemdjossou&theme=blueberry_duo">
-</p>
+<a href="http://www.github.com/joemdjossou"><img src="https://github-readme-streak-stats.herokuapp.com/?user=joemdjossou&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/joemdjossou" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joemdjossou&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ---
 
 <h3>🏆GitHub Trophies</h3>
 
-![](https://github-profile-trophy.vercel.app/?username=joemdjossou&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=joemdjossou&theme=onedark&margin-w=15&margin-h=15)
+
 
 ---
 
